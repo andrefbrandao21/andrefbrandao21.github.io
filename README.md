@@ -1,7 +1,7 @@
 
 ### Sobre Mim
 <p>
-  Eu sou André, estudante de mestrado em Economia na UFPB. Engenharia de dados, Modelagem preditiva e Inferência causal
+  Eu sou André, estudante de mestrado em Economia na UFPB. tenho interesse em Engenharia de dados, Modelagem preditiva e Inferência causal
 </p>
 <br>
 
@@ -17,4 +17,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+</p>
+
+### 📬 Contato
+<p>
+  <a href="mailto:brandaoandrefilipe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrefbrandao/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5581996848877">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
