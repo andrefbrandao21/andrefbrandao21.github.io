@@ -1,7 +1,7 @@
 
 ### Sobre Mim
 <p>
-  Eu sou André, estudante de mestrado em Economia na UFPB. Tenho interesse em econometria, análise de dados e programação aplicada a finanças.
+  Eu sou André, estudante de mestrado em Economia na UFPB. Engenharia de dados, Modelagem preditiva e Inferência causal
 </p>
 <br>
 
